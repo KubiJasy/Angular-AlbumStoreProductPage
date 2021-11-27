@@ -1,0 +1,24 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: block;
+    line-height: 30px;
+}
+
+button {
+    line-height: 1;
+    padding: 5px;
+    margin-left: 20px;
+    border: 1px solid #776D5A;
+    border-radius: 5px;
+    background-color: #A09CB0;
+}
+
+.tracklisting {
+    font-size: 16px;
+    padding-top: 10px;
+    background-color: rgba(160, 156, 176, .5);
+}
+
